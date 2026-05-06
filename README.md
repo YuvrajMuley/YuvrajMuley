@@ -1,5 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on my Machine Learning Projects repo & experimenting with NLP models.<br>👯 I’m looking to collaborate on ML/AI projects, sentiment analysis, or anything Python-based.<br>🤝 I’m looking for help with Deep learning, model deployment & MLOps.<br>🌱 I’m currently learning Deep Learning, HuggingFace Transformers, and fine-tuning LLMs.<br>💬 Ask me about Machine Learning, Python, C++, or building NLP apps with Streamlit.<br>⚡ Fun fact "It works on my machine" is technically a valid solution — just ship the machine 🖥️
+See more- https://yuvrajmuley.github.io/
 
 
 ## 🌐 Socials:
